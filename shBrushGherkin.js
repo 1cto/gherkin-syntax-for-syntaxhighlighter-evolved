@@ -18,7 +18,9 @@ SyntaxHighlighter.brushes.Gherkin = function()
             ];
     }
 	
-    var keywords = 'Given When And Then Feature Scenario Outline Template Background But Examples';
+    //var keywords = 'Given When And Then Feature Scenario Outline Template Background But Examples';
+    var keywords = 'Дано Когда И Тогда Функционал Сценарий Структура Шаблон Контекст Но Примеры';
+    
     this.regexList = [
         { regex: SyntaxHighlighter.regexLib.singleLinePerlComments,	css: 'comments' }, // comments using #
         { regex: SyntaxHighlighter.regexLib.doubleQuotedString,		css: 'string' }, // "string"
