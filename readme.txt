@@ -4,7 +4,7 @@ Tags: code, sourcecode, php, xhtml, html, css, WordPress.com
 Requires at least: 2.7
 Tested up to: 3.1.3
 Stable tag: 1.1
-
+ФОРК СТРАШНЫЙ ФОРК
 Adds Gherkin/Cucumber/Behat syntax for SyntaxHighlighter Evolved.
 
 == Description ==
